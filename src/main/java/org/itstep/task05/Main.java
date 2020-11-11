@@ -30,7 +30,10 @@ package org.itstep.task05;
  * Примечание: не учитывать номиналы купюр и монет
  */
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {/*
+        public class Money {
+            private long hryvnia;
+            private byte kopecks;*/
 
     }
 }
